@@ -4,20 +4,20 @@ Implemented KPI cards, map visualizations, trend analysis, slicers, and DAX meas
 Created dynamic reports for sales trends, customer ratings, city-wise performance, and payment analysis.
 **The dashboard helps stakeholders:**
 
-Monitor total sales and quantity sold
-Track monthly sales trends
-Analyze city-wise performance
-Compare mobile brands and models
-Understand customer ratings
-Evaluate payment method usage
+Monitor total sales and quantity sold,
+Track monthly sales trends,
+Analyze city-wise performance,
+Compare mobile brands and models,
+Understand customer ratings,
+Evaluate payment method usage,
 Filter data dynamically for better decision-making
 
 **Tools & Technologies Used**
 
-Microsoft Power BI
-Power Query
-DAX (Data Analysis Expressions)
-Data Modeling
+Microsoft Power BI,
+Power Query,
+DAX (Data Analysis Expressions),
+Data Modeling,
 Interactive Visualizations
 
 **Skills used in this Project**
